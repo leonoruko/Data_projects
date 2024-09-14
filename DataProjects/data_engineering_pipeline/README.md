@@ -1,4 +1,4 @@
-![Data Engineerig pipeline]([https://example.com/image.png](https://www.bing.com/images/create/a-header-image-for-a-data-engineering-pipeline-pro/1-66e55e92d06e47b6826f13beb89475ec?id=2HER9EX40IB8kYmxf8Dfbw%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG2..tgGr0YOb_5J0iN08FjQ&skey=y_Xx_tt6kczRtfY5EsxwSRJZoIDuC75r5r0v5KARiZ0&FORM=SYDBIC))
+![Data Engineerig pipeline](/header.jpeg)
 
 ## Creating an automation pipeline
 ### Overview
