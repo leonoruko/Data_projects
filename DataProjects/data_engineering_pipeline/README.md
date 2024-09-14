@@ -1,4 +1,4 @@
-![Data Engineerig pipeline](/header.jpeg)
+![Data Engineerig pipeline](./header.jpeg)
 
 ## Creating an automation pipeline
 ### Overview
